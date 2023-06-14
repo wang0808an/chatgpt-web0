@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://i.75ll.com/up/15/1c/c5/7aff47097cd880084dfcb650d3c51c15.jpg',
       name: '米娅',
-      description: 'Star on <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" >GitHub</a>',
+      description: '',
     },
   }
 }
